@@ -36,6 +36,7 @@ button {
 input {
     margin: 0;
     padding: 0;
+    width: 80%;
 }
 
 .input-field {
