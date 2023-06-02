@@ -13,11 +13,15 @@ form {
 }
 
 p {
-    font-family: 'Source Sans Pro', sans-serif; 
+    font-family: 'Source Sans Pro', sans-serif;
+    padding-left: 30%;
+    padding-right: 30%; 
 }
 
 #header {
     font-family: 'Oswald', sans-serif;
 }
+
+
 
 
