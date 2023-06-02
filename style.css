@@ -18,10 +18,13 @@ form {
 
 p {
     font-family: 'Source Sans Pro', sans-serif;
-    text-align: center;
+    text-align: left;
     font-size: 1.3em;
     margin: 0;
-    padding: 0; 
+    padding-top: 0;
+    padding-right: 0;
+    padding-bottom: 0;
+    padding-left: 10%; 
 }
 
 button {
