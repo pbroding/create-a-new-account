@@ -18,8 +18,7 @@ form {
 
 p {
     font-family: 'Source Sans Pro', sans-serif;
-    padding-left: 30%;
-    padding-right: 30%; 
+    text-align: center; 
 }
 
 .input-field {
