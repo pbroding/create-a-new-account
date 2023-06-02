@@ -20,6 +20,10 @@ p {
     padding-right: 30%; 
 }
 
+.input-field {
+    text-align: center;
+}
+
 #header {
     font-family: 'Oswald', sans-serif;
 }
