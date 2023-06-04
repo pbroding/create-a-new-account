@@ -41,9 +41,9 @@ button {
 
 input {
     margin: 0;
-    padding: 2% 3%;
+    padding: 1% 1%;
     width: 80%;
-    border-radius: 1em;
+    border-radius: 0.5em;
 }
 
 input:focus {
@@ -75,4 +75,3 @@ input:focus {
 hr {
     width: 81%;
 }
-
