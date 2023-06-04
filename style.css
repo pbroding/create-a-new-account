@@ -32,7 +32,7 @@ button {
     font-family: 'Source Sans Pro', sans-serif;
     text-align: center;
     font-size: 1.3em;
-    border-radius: 8px;
+    border-radius: 0.5em;
     padding-left: 1.2em;
     padding-right: 1.2em;
     margin-bottom: 3.5%;
@@ -41,9 +41,9 @@ button {
 
 input {
     margin: 0;
-    padding: 2% 4%;
+    padding: 2% 3%;
     width: 80%;
-    border-radius: 2em;
+    border-radius: 1em;
 }
 
 .input-field {
