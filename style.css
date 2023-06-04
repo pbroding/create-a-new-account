@@ -41,9 +41,10 @@ button {
 
 input {
     margin: 0;
-    padding: 1% 1%;
+    padding: 1% 2%;
     width: 80%;
     border-radius: 0.5em;
+    font-size: 1.2em;
 }
 
 input:focus {
