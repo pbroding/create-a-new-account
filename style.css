@@ -69,10 +69,10 @@ input:focus {
     padding-right: 10%;
     padding-bottom: 0%;
     padding-left: 10%;
-    font-size: 1em;
+    font-size: 1.1em;
     text-align: center; 
 }
 
 hr {
-    width: 81%;
+    width: 85%;
 }
